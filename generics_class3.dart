@@ -1,7 +1,4 @@
-import 'generics_class2.dart';
-
-void main(){
- Forest<T> =cat_value(cat())<Cat>();
+void main() {
 
 }
 class Forest<T extends Animal>{
